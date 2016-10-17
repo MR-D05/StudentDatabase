@@ -1,5 +1,4 @@
 # StudentDatabase
-CMIS 242 Final Project
 The fourth programming project involves writing a program to manage a student database.
 
 
